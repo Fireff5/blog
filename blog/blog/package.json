@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MohamedRilwan.github.io/blog",
+  "homepage": "https://fireff5.github.io/blog/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^5.16.5",
